@@ -75,7 +75,7 @@ const kMenu = <FoodItem>[
     minutes: 12,
     kcal: 520,
     colors: [Color(0xFFFFD59A), Color(0xFFF29B4B)],
-    image: 'https://share.google/fksphdC8jJXQziweX',
+    image: 'assets/images/nasi_goreng_spesial.jpg', // SUDAH DIPERBAIKI
     spicy: true,
     popular: true,
   ),
@@ -90,7 +90,7 @@ const kMenu = <FoodItem>[
     minutes: 10,
     kcal: 610,
     colors: [Color(0xFFFFC9A8), Color(0xFFE8663D)],
-    image: 'assets/images/ayam_geprek.jpg',
+    image: 'assets/images/ayam_geprek_sambal_bawang.jpg', // SUDAH DIPERBAIKI
     spicy: true,
     popular: true,
   ),
@@ -105,7 +105,7 @@ const kMenu = <FoodItem>[
     minutes: 8,
     kcal: 450,
     colors: [Color(0xFFFFE3A3), Color(0xFFE9B44C)],
-    image: 'assets/images/mie_ayam.jpg',
+    image: 'assets/images/mie_ayam_bakso.jpg', // SUDAH DIPERBAIKI
     spicy: true,
   ),
   FoodItem(
@@ -119,7 +119,7 @@ const kMenu = <FoodItem>[
     minutes: 9,
     kcal: 380,
     colors: [Color(0xFFFFF0B8), Color(0xFFF0C94A)],
-    image: 'assets/images/soto_ayam.jpg',
+    image: 'assets/images/soto_ayam_lamongan.jpg', // SUDAH DIPERBAIKI
   ),
   FoodItem(
     id: 5,
@@ -132,7 +132,7 @@ const kMenu = <FoodItem>[
     minutes: 7,
     kcal: 340,
     colors: [Color(0xFFCDEBB0), Color(0xFF7CBF6A)],
-    image: 'assets/images/gado_gado.jpg',
+    image: 'assets/images/gado_gado_siram.jpg', // SUDAH DIPERBAIKI
   ),
   FoodItem(
     id: 6,
@@ -145,7 +145,7 @@ const kMenu = <FoodItem>[
     minutes: 3,
     kcal: 180,
     colors: [Color(0xFFE9CDB3), Color(0xFFB9825B)],
-    image: 'assets/images/es_teh_tarik.jpg',
+    image: 'assets/images/es_teh_tarik.jpg', // SUDAH DIPERBAIKI
     popular: true,
   ),
   FoodItem(
@@ -159,7 +159,7 @@ const kMenu = <FoodItem>[
     minutes: 3,
     kcal: 120,
     colors: [Color(0xFFFFE0A6), Color(0xFFFFA93B)],
-    image: 'assets/images/es_jeruk.jpg',
+    image: 'assets/images/es_jeruk_peras.jpg', // SUDAH DIPERBAIKI
   ),
   FoodItem(
     id: 8,
@@ -172,7 +172,7 @@ const kMenu = <FoodItem>[
     minutes: 6,
     kcal: 290,
     colors: [Color(0xFFFFF0B3), Color(0xFFF5C242)],
-    image: 'assets/images/pisang_goreng.jpg',
+    image: 'assets/images/pisang_goreng_keju.jpg', // SUDAH DIPERBAIKI
   ),
   FoodItem(
     id: 9,
@@ -185,7 +185,7 @@ const kMenu = <FoodItem>[
     minutes: 8,
     kcal: 330,
     colors: [Color(0xFFFFD9C2), Color(0xFFE58A5C)],
-    image: 'assets/images/batagor.jpg',
+    image: 'assets/images/batagor_kuah_kacang.jpg', // SUDAH DIPERBAIKI
     spicy: true,
   ),
 ];
